@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Markety Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ https://markety-38b85.web.app
 
 ## Available Scripts
 
